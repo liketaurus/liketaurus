@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My GitHub Stat's](https://github-readme-stats.vercel.app/api?username=liketaurus&show_icons=true)
+
 <!--
 **liketaurus/liketaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
