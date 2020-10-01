@@ -6,8 +6,8 @@
 
 My name is **Alexander Babich** and I have a years of IT and teaching experience, Ph.D. in Software Engineering, and a lot of professional certifications and statuses. 
 
-I wrote a **two books**📖, one of them is using as a student's handbook in a range of local and foreign Universities. <br>
-Also I record **two popular video trainings** on Java development and SharePoint administration. 
+I wrote a **two books**📖 (here is some [details](http://productivityblog.com.ua/?page_id=1831)), one of them is using as a student's handbook in a range of local and foreign Universities. <br>
+Also I record **two popular video trainings**🎬 on Java development and SharePoint administration (liks to videos [here](http://productivityblog.com.ua/?page_id=2929)). 
 
 My superpower is *ability to explain everything with simple words* in a plain English (or Russian or Ukrainian).
 
