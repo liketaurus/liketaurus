@@ -1,7 +1,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liketaurus)](https://github.com/ryo-ma/github-profile-trophy)
 <div>
-<img  height="165" src="https://github-readme-stats.vercel.app/api?username=liketaurus&layout=compact&show_icons=true"></img> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liketaurus&layout=compact&show_icons=true)](https://github.com/liketaurus?tab=repositories)
+<img  height="165" src="https://github-readme-stats.vercel.app/api?username=liketaurus&layout=compact&show_icons=true"></img> 
+<img  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liketaurus&layout=compact&show_icons=true"></img>
 </div>
 
 ### Hi there! 👋
