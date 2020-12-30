@@ -1,5 +1,5 @@
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=liketaurus)](https://github.com/ryo-ma/github-profile-trophy)
 ![My GitHub Stat's](https://github-readme-stats.vercel.app/api?username=liketaurus&show_icons=true)
 
 ### Hi there! 👋
