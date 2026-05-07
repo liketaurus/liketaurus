@@ -17,7 +17,7 @@ My superpower is *ability to explain everything with simple words* in a plain En
 
 Currently I'm working at [Poltava Polytechnic Professional College](http://polytechnic.poltava.ua)💻 and also provide a lot of official trainings from Microsoft and other vendors as a freelance trainer/consultant.
 
-You can read more from me at my **[personal blog](http://productivityblog.com.ua/**) or watch my **[CV](https://sites.google.com/polytechnic.co.cc/pcv/main)**📝.
+You can read more from me at my [personal blog](http://productivityblog.com.ua/) or watch my [CV](https://sites.google.com/polytechnic.co.cc/pcv/main)📝.
 
 <!--
 **liketaurus/liketaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
