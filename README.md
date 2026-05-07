@@ -11,13 +11,13 @@
 My name is **Alexander Babich** and I have a years of IT and teaching experience, Ph.D. in Software Engineering, and a lot of professional certifications, statuses and awards🏆. 
 
 I wrote a **two technical books**📖 (here is some [details](http://productivityblog.com.ua/?page_id=1831)), one of them is using as a student's handbook in a range of local and foreign Universities. <br>
-Also I record **two popular video trainings**🎬 on Java development and SharePoint administration (liks to videos [here](http://productivityblog.com.ua/?page_id=2929)), created a **mini-serie** for teachers, that you can [watch here](https://proudedu.pp.ua/), and wrote a couple of sci-fi books, publicity available on [Booknet](https://booknet.ua/oleksandr-babich-u11030063).
+Also I record **two popular video trainings**🎬 on Java development and SharePoint administration (liks to videos [here](http://productivityblog.com.ua/?page_id=2929)), created a **mini-serie** for teachers, that you can [watch here](https://proudedu.pp.ua/), and wrote a **couple of sci-fi books**, publicity available on [Booknet](https://booknet.ua/oleksandr-babich-u11030063).
 
 My superpower is *ability to explain everything with simple words* in a plain English (or Russian or Ukrainian).
 
 Currently I'm working at [Poltava Polytechnic Professional College](http://polytechnic.poltava.ua)💻 and also provide a lot of official trainings from Microsoft and other vendors as a freelance trainer/consultant.
 
-You can read more from me at my [personal blog](http://productivityblog.com.ua/) or watch my [CV](https://babich.edublogs.org/)📝.
+You can read more from me at my **[personal blog](http://productivityblog.com.ua/**) or watch my **[CV](https://sites.google.com/polytechnic.co.cc/pcv/main)**📝.
 
 <!--
 **liketaurus/liketaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
