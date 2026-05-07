@@ -22,7 +22,7 @@ jobs:
       - name: Generate Narrow Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats
+          card: top-langs
           options: username=liketaurus&layout=compact&show_icons=true&card_width=260
           path: stats_narrow.svg
           token: ${{ secrets.GH_TOKEN }}
