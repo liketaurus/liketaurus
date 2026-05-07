@@ -8,21 +8,48 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate Stats
+
+      # Картка 1: Загальна статистика
+      - name: Generate Main Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          # ОБОВ'ЯЗКОВО: вкажіть тип картки (stats, top-langs, pin, або wakatime)
           card: stats
-          # Вкажіть ваш логін та додаткові опції (як у URL оригінального проєкту)
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
-          # Шлях, куди зберегти файл
+          options: username=liketaurus&layout=compact&show_icons=true
           path: stats.svg
-          # Ваш секретний токен
           token: ${{ secrets.GH_TOKEN }}
-      - name: Push
+
+      # Картка 2: Вузька статистика (ширина 260)
+      - name: Generate Narrow Stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=liketaurus&layout=compact&show_icons=true&card_width=260
+          path: stats_narrow.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # Пуш обох файлів у репозиторій
+      - name: Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats.svg
-          git commit -m "Update stats" || exit 0
-          git push
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add stats.svg stats_narrow.svg
+          git commit -m "Update multiple stats cards" || exit 0
+          git push      
+      # - name: Generate Stats
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     # ОБОВ'ЯЗКОВО: вкажіть тип картки (stats, top-langs, pin, або wakatime)
+      #     card: stats
+      #     # Вкажіть ваш логін та додаткові опції (як у URL оригінального проєкту)
+      #     options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
+      #     # Шлях, куди зберегти файл
+      #     path: stats.svg
+      #     # Ваш секретний токен
+      #     token: ${{ secrets.GH_TOKEN }}
+      # - name: Push
+      #   run: |
+      #     git config --global user.name "github-actions[bot]"
+      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      #     git add stats.svg
+      #     git commit -m "Update stats" || exit 0
+      #     git push
