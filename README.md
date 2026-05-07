@@ -3,6 +3,7 @@
 <div>
 <img  height="165" src="https://github-readme-stats.vercel.app/api?username=liketaurus&layout=compact&show_icons=true"></img> 
 <img  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liketaurus&layout=compact&show_icons=true&card_width=260"></img>
+<img  height="165" src="https://streak-stats.demolab.com?user=liketaurus&theme=react&layout=compact"></img> 
 </div>
 
 ### Hi there! 👋
