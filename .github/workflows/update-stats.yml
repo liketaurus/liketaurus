@@ -11,8 +11,14 @@ jobs:
       - name: Generate Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
+          # ОБОВ'ЯЗКОВО: вкажіть тип картки (stats, top-langs, pin, або wakatime)
+          card: stats
+          # Вкажіть ваш логін та додаткові опції (як у URL оригінального проєкту)
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
+          # Шлях, куди зберегти файл
+          path: stats.svg
+          # Ваш секретний токен
           token: ${{ secrets.GH_TOKEN }}
-          path: stats.svg # Збереження файлу
       - name: Push
         run: |
           git config --global user.name "github-actions[bot]"
