@@ -1,9 +1,9 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=liketaurus&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!---[![trophy](https://github-profile-trophy.vercel.app/?username=liketaurus&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)--->
 <div>
 <img  height="165" src="./stats.svg"></img> 
 <img  height="165" src="./stats_narrow.svg"></img>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=liketaurus" alt="GitHub Streak" /></a>
+<!---<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=liketaurus" alt="GitHub Streak" /></a>--->
 </div>
 
 ### Hi there! 👋
